@@ -2,6 +2,7 @@
 
 ## How to use the "Open Virtual Appliance" file
 
+- Download the latest version of VirtualBox >= 6.0 https://www.virtualbox.org/wiki/Downloads
 - Download the file https://github.com/atnos/pia-doc/blob/master/pia-back_2.0.1.ova
 - Import the appliance file inside VirtualBox (or VMWare)
 - On the "settings" menu select the "Network" folder
